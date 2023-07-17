@@ -1,2 +1,3 @@
 # hello-world
-start learning git
+Learning PhP + Laravel (start from begining)
+
